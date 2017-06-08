@@ -12,6 +12,7 @@ public class GreetingTest {
 	    //throw new PendingException();
 	    if(str.equals("monday")){
 	    	System.out.println("monday testing");
+	    	
 	    }
 	    if(str.equals("wednesday")){
 	    	System.out.println("wednesday testing");
@@ -47,6 +48,7 @@ public class GreetingTest {
 		if(str.equals("fuck")){
 	    	System.out.println("fuck testing");
 	    }
+		System.out.println("hello git");
 	}
 
 }
