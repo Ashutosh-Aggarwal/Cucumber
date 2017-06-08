@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/ashut/Downloads/cucumber/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashut/Downloads/cucumber/cucumber-core-1.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashut/Downloads/cucumber/cucumber-java-1.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashut/Downloads/cucumber/cucumber-junit-1.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashut/Downloads/cucumber/cucumber-jvm-deps-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashut/Downloads/cucumber/cucumber-picocontainer-1.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashut/Downloads/cucumber/cucumber-reporting-3.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashut/Downloads/cucumber/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashut/Downloads/cucumber/junit-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashut/Downloads/cucumber/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/ashut/Downloads/cucumber/jdom-2.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashut/Downloads/cucumber/cucumber-html-0.2.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
