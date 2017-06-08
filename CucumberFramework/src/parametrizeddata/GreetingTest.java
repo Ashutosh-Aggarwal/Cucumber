@@ -49,6 +49,7 @@ public class GreetingTest {
 	    	System.out.println("fuck testing");
 	    }
 		System.out.println("hello git");
+		System.out.println("hello git again");
 	}
 
 }
