@@ -48,8 +48,9 @@ public class GreetingTest {
 		if(str.equals("fuck")){
 	    	System.out.println("fuck testing");
 	    }
-		System.out.println("hello git");
-		System.out.println("hello git again");
+		System.out.println("HELLO GIT");
+		System.out.println("HELLO GIT AGAIN");
+		
 	}
 
 }
